@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0258-add-digits) |
 ## Database
 |  |
 | ------- |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
