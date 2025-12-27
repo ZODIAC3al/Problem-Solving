@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0263-ugly-number) |
 ## Database
 |  |
 | ------- |
