@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0242-valid-anagram) |
 ## Stack
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0258-add-digits) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
