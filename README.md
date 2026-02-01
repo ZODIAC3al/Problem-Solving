@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0234-palindrome-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
