@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0263-ugly-number) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ZODIAC3al/Problem-Solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Database
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0217-contains-duplicate) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ZODIAC3al/Problem-Solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0258-add-digits) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ZODIAC3al/Problem-Solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ZODIAC3al/Problem-Solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
