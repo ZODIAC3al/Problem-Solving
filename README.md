@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0185-department-top-three-salaries) |
+| [0584-find-customer-referee](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0584-find-customer-referee) |
 ## Array
 |  |
 | ------- |
