@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0912-sort-an-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0912-sort-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ZODIAC3al/Problem-Solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,5 +179,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0912-sort-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ZODIAC3al/Problem-Solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
