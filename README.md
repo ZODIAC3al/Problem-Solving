@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0912-sort-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ZODIAC3al/Problem-Solving/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
