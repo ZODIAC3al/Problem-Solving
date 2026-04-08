@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0234-palindrome-linked-list) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0263-ugly-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ZODIAC3al/Problem-Solving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ZODIAC3al/Problem-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
